@@ -1,4 +1,4 @@
-# Hi, I’m Daniela 👋
+# Hi, I’m Daniela 🙋‍♀️
 - Data Scientist
 - Researcher
 
@@ -12,8 +12,8 @@
 - 🐍 Python
 - 🔮 Machine Learning
 - 📈 Data Visualization
-- ⚡ Data Preparation
-- 👀 Strategic Thinking
+- 👀 Data Preparation
+- 🧠 Strategic Thinking
 - 📊 Statistical Techniques
 
 # Find me 🌎
