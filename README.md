@@ -1,6 +1,4 @@
 # 👋 Hi, I’m Daniela M. Barreto
-
-# Who am I?
 - Data Scientist
 - Researcher
 
