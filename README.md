@@ -17,7 +17,7 @@
 - 📊 Statistical Techniques
 
 # Find me 🌎
-- www.linkedin.com/in/danielambarreto
+- [Linkedin](www.linkedin.com/in/danielambarreto) 
 
   
 
