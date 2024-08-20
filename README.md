@@ -2,12 +2,6 @@
 - Data Analyst/Scientist
 - Researcher
 
-# Education
-- Higher Diploma in Data Analytics for Business - CCT College Dublin
-- Data Analytics Professional Certificate - Google 
-- PhD in Science - UFSCar
-- Master in Ecology and Natural Research - UFSCar
-  
 # Skills
 - 🐍 Python
 - 🔮 Machine Learning
@@ -15,6 +9,12 @@
 - 👀 Data Preparation
 - 🧠 Strategic Thinking
 - 📊 Statistical Techniques
+  
+# Education
+- Higher Diploma in Data Analytics for Business - CCT College Dublin
+- Data Analytics Professional Certificate - Google 
+- PhD in Science - UFSCar
+- Master in Ecology and Natural Research - UFSCar
 
 # Find me 🌎
 - [Linkedin](www.linkedin.com/in/danielambarreto) 
