@@ -1,5 +1,5 @@
 # Hi, I’m Daniela 🙋‍♀️
-- Data Scientist
+- Data Analyst/Scientist
 - Researcher
 
 # Education
